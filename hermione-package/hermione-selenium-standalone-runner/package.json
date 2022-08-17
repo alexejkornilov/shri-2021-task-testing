@@ -1,0 +1,8 @@
+{
+  "name": "hermione-selenium-standalone-runner",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "delay": "^5.0.0"
+  }
+}
